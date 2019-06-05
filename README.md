@@ -1,1 +1,1 @@
-Train an LSTM to generate those sweet, sweet Trump tweets.
+Train an LSTM on trump tweets.
